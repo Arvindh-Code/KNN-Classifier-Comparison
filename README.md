@@ -35,5 +35,13 @@ The README includes details on each script, their purpose, and the dataset used.
 
 - Aravindh Gopalsamy
 - gopal98aravindh@gmail.com
-  
+
+## License
+
+This project is not open for external use or distribution. All rights reserved.
+
+## Important Note for Students
+
+**Warning:** This code is intended for educational purposes only. Please do not use this code for any assignment, and consider it as a reference implementation. Use your own implementation for academic assignments.
+
 Feel free to explore the code and use it as a reference for understanding KNN implementation and model evaluation.
