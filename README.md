@@ -31,4 +31,9 @@ This repository contains Python code for implementing the K-Nearest Neighbors (K
 
 The README includes details on each script, their purpose, and the dataset used. It also provides information on how to run the scripts and interpret the results. The T-Test section highlights whether the differences in accuracy between the two implementations are statistically significant.
 
+## Author
+
+- Aravindh Gopalsamy
+- gopal98aravindh@gmail.com
+  
 Feel free to explore the code and use it as a reference for understanding KNN implementation and model evaluation.
